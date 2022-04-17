@@ -1,0 +1,2 @@
+source jupyterenv/bin/activate
+jupyter notebook
